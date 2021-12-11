@@ -1,0 +1,126 @@
+body {
+    background-image: url("../images/royjordan.jpg")
+
+}
+
+.about-img {
+    display: block;
+    height: auto;
+    width: 50%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mainNav {
+    background-color: black;
+    font-family: 'Cinzel', serif;
+}
+
+.site-heading {
+    color:ghostwhite;
+    
+}
+
+.site-heading-lower {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.site-heading-upper {
+    font-family: 'UnifrakturCook', cursive;
+}
+
+.footer {
+    background-color: black;
+  }
+
+.text-uppercase {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.cta {
+    background-color: rgb(53, 50, 50);
+}
+
+.mb-0 {
+    font-family: 'Cinzel', serif;
+}
+
+.section-heading-upper {
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: white;
+}
+
+.section-heading-lower {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.bg-faded {
+    background-color:rgb(177, 6, 6);
+  }
+
+  .btn-primary {
+    color: rgb(177, 6, 6);
+    background-color: #000000;
+    border-color: #ffffff;
+  }
+  .btn-primary:hover {
+    color: rgb(177, 6, 6);
+    background-color: #000000;
+    border-color: #ffffff;
+  }
+
+  #mainNav .navbar-brand {
+    color:rgb(177, 6, 6);
+  }
+
+.section-heading, .mb-0 {
+    color: ghostwhite;
+}
+
+.rounded {
+    border: 5px solid black; 
+}
+
+.for-sale-image {
+    height: auto; 
+    width: 40%; 
+    position: relative;
+    margin-left: 50px;
+}
+
+.video {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.extra-padding {
+    padding: 5px;
+}
+
+.mb-1 {
+    font-style: italic;
+}
+
+a {
+    color: white; 
+    text-decoration: underline;
+}
+
+.flexrow{
+    display: flex;
+    margin-top: 5px;
+}
+
+.flexcolumn {
+    flex: 10%;
+    padding: 1px;
+}
+
+.navigate {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    font-size: medium;
+}
